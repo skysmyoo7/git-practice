@@ -6,6 +6,5 @@ fun main() {
     val e = "e"
 
     val test = "test"
-
-
+    var test2 = "test2"
 }
