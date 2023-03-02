@@ -10,4 +10,6 @@ fun main() {
     var test3 = "test3"
 
     val text = "변경사항"
+
+    val text3 = "여기는 test4"
 }
