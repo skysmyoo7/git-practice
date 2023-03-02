@@ -12,4 +12,5 @@ fun main() {
     val text = "변경사항"
 
     val text3 = "여기는 test4"
+    val text2 = "test4"
 }
